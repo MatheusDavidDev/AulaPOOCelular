@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\AulaPOOCelular\COOCelular\bin\Debug\netcoreapp3.1\COOCelular.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\AulaPOOCelular\COOCelular\bin\Debug\netcoreapp3.1\COOCelular.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\AulaPOOCelular\COOCelular\bin\Debug\netcoreapp3.1\COOCelular.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\AulaPOOCelular\COOCelular\bin\Debug\netcoreapp3.1\COOCelular.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Área de Trabalho\AulaPOOCelular\COOCelular\bin\Debug\netcoreapp3.1\COOCelular.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\AulaPOOCelular\COOCelular\bin\Debug\netcoreapp3.1\COOCelular.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\AulaPOOCelular\COOCelular\obj\Debug\netcoreapp3.1\COOCelular.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\AulaPOOCelular\COOCelular\obj\Debug\netcoreapp3.1\COOCelular.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\AulaPOOCelular\COOCelular\obj\Debug\netcoreapp3.1\COOCelular.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\AulaPOOCelular\COOCelular\obj\Debug\netcoreapp3.1\COOCelular.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\AulaPOOCelular\COOCelular\obj\Debug\netcoreapp3.1\COOCelular.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\AulaPOOCelular\COOCelular\obj\Debug\netcoreapp3.1\COOCelular.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\AulaPOOCelular\COOCelular\obj\Debug\netcoreapp3.1\COOCelular.genruntimeconfig.cache

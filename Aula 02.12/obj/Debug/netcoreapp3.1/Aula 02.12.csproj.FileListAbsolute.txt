@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula 02.12\bin\Debug\netcoreapp3.1\Aula 02.12.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula 02.12\bin\Debug\netcoreapp3.1\Aula 02.12.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula 02.12\bin\Debug\netcoreapp3.1\Aula 02.12.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula 02.12\bin\Debug\netcoreapp3.1\Aula 02.12.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula 02.12\bin\Debug\netcoreapp3.1\Aula 02.12.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula 02.12\bin\Debug\netcoreapp3.1\Aula 02.12.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula 02.12\obj\Debug\netcoreapp3.1\Aula 02.12.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula 02.12\obj\Debug\netcoreapp3.1\Aula 02.12.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula 02.12\obj\Debug\netcoreapp3.1\Aula 02.12.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula 02.12\obj\Debug\netcoreapp3.1\Aula 02.12.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula 02.12\obj\Debug\netcoreapp3.1\Aula 02.12.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula 02.12\obj\Debug\netcoreapp3.1\Aula 02.12.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Aula 02.12\obj\Debug\netcoreapp3.1\Aula 02.12.genruntimeconfig.cache
